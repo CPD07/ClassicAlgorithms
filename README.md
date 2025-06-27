@@ -5,6 +5,7 @@ I am sharing classic algorithms in Python and Java here.
 
 ### Dynamic Programming
 - Tower of Hanoi
+- Fibonacci numbers
   
 # Why This Repo?
 
