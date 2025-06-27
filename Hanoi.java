@@ -1,5 +1,7 @@
 /* This is the code for the classic tower of hanoi problem in Java.
 It is famous for utilising dynamic programming.
+这是经典汉诺塔问题的 Java 代码。
+它因运用递归算法而闻名。
 */
 
 import java.util.Scanner;
