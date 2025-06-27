@@ -3,7 +3,7 @@ I am sharing classic algorithms in Python and Java here.
 
 ## Algorithms Covered
 
-### Dynamic Programming (Coming Soon)
+### Dynamic Programming
 - Tower of Hanoi
   
 # Why This Repo?
