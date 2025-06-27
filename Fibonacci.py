@@ -1,6 +1,8 @@
 """
 This is the code for the classic Fibonacci number problem in Python.
 It is famous for utilising dynamic programming.
+这是经典斐波那契数列问题的 Python 代码。
+它因运用递归算法而闻名。
 """
 
 def Fib(n):
