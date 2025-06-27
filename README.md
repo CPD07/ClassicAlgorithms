@@ -19,8 +19,8 @@ I am sharing classic algorithms in Python and Java here.
 ## 涵盖的算法
 
 ### 动态规划
-- 汉诺塔
-- 斐波那契数列
+- 汉诺塔([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
+- 斐波那契数列([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
 
 # 为什么选择这个代码库？
 
