@@ -1,9 +1,9 @@
 # ClassicAlgorithms
 I am sharing classic algorithms in Python and Java here.
 
-## 🚀 Algorithms Covered
+## Algorithms Covered
 
-### ✅ Dynamic Programming (Coming Soon)
+### Dynamic Programming (Coming Soon)
 - Tower of Hanoi
   
 # Why This Repo?
