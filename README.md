@@ -4,8 +4,8 @@ I am sharing classic algorithms in Python and Java here.
 ## Algorithms Covered
 
 ### Dynamic Programming
-- Tower of Hanoi
-- Fibonacci numbers
+- Tower of Hanoi in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
+- Fibonacci numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
   
 # Why This Repo?
 
