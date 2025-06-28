@@ -7,8 +7,8 @@ I am sharing classic algorithms in Python and Java here.
 - Tower of Hanoi in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
 - Fibonacci numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
 
-### Loop Algorithm
-- Permutations and Combinations ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
+### Loop Algorithms
+- Permutations and Combinations ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
   
 # Why This Repo?
 
@@ -26,7 +26,7 @@ I am sharing classic algorithms in Python and Java here.
 - 斐波那契数列([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
 
 ### 循环算法
-- 排列组合([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
+- 排列组合([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
 
 # 为什么选择这个代码库？
 
