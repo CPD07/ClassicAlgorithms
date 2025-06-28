@@ -13,4 +13,4 @@ for i in range(n, n-k, -1):
     A = i * A
     C = (i/(i-(n-k)))*C
 print(f"There are {A} ways to arrange this")
-print(f"There are {int(C)} ways to combine this")
+print(f"There are (int(C)) ways to combine this")
