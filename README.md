@@ -9,6 +9,10 @@ I am sharing classic algorithms in Python and Java here.
 
 ### Loop Algorithms
 - Permutations and Combinations ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
+- Narcissistic numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.java))
+- aabb square numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.java))
+- leap years ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
+- prime numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
   
 # Why This Repo?
 
@@ -27,6 +31,10 @@ I am sharing classic algorithms in Python and Java here.
 
 ### 循环算法
 - 排列组合([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
+- 水仙花数([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.java))
+- aabb 平方数 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.java))
+- 闰年 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
+- 素数 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
 
 # 为什么选择这个代码库？
 
