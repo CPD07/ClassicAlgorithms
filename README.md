@@ -38,7 +38,7 @@ I am sharing classic algorithms in Python and Java here.
 - 闰年 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
 - 素数 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
 - 乘法表 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
-- 形状 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
+- 各种图形 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
 
 # 为什么选择这个代码库？
 
