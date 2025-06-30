@@ -13,6 +13,8 @@ I am sharing classic algorithms in Python and Java here.
 - aabb square numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.java))
 - leap years ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
 - prime numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
+- multiplication table ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
+- shapes ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
   
 # Why This Repo?
 
@@ -35,6 +37,8 @@ I am sharing classic algorithms in Python and Java here.
 - aabb 平方数 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.java))
 - 闰年 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
 - 素数 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
+- 乘法表 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
+- 形状 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
 
 # 为什么选择这个代码库？
 
