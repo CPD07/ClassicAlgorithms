@@ -6,6 +6,7 @@ I am sharing classic algorithms in Python and Java here.
 ### Dynamic Programming
 - Tower of Hanoi in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
 - Fibonacci numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
+- Pascal's triangle ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.java))
 
 ### Loop Algorithms
 - Permutations and Combinations ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
@@ -15,6 +16,7 @@ I am sharing classic algorithms in Python and Java here.
 - prime numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
 - multiplication table ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
 - shapes ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
+- Pascal's triangle ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.java))
   
 # Why This Repo?
 
@@ -30,6 +32,7 @@ I am sharing classic algorithms in Python and Java here.
 ### 递归算法
 - 汉诺塔([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
 - 斐波那契数列([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
+- 杨辉三角 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.java))
 
 ### 循环算法
 - 排列组合([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
@@ -38,7 +41,8 @@ I am sharing classic algorithms in Python and Java here.
 - 闰年 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
 - 素数 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
 - 乘法表 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
-- 各种图形 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
+- 各种图形 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
+- 杨辉三角 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.java))
 
 # 为什么选择这个代码库？
 
