@@ -6,17 +6,20 @@ I am sharing classic algorithms in Python and Java here.
 ### Dynamic Programming
 - Tower of Hanoi in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
 - Fibonacci numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
-- Pascal's triangle ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.java))
+- Pascal's triangle in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.java))
 
 ### Loop Algorithms
-- Permutations and Combinations ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
-- Narcissistic numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.java))
-- aabb square numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.java))
-- leap years ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
-- prime numbers ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
-- multiplication table ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
-- shapes ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
-- Pascal's triangle ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.java))
+- Permutations and Combinations in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
+- Narcissistic numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Narcissistic.java))
+- aabb square numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/aabb.java))
+- leap years in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/leapyear.java))
+- prime numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/prime.java))
+- multiplication table in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
+- shapes in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
+- Pascal's triangle in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.java))
+
+### Multiple Pointers
+- Dutch Flag Sort in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.java))
   
 # Why This Repo?
 
@@ -43,6 +46,9 @@ I am sharing classic algorithms in Python and Java here.
 - 乘法表 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/multiplication.java))
 - 各种图形 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/shapes.java))
 - 杨辉三角 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal.java))
+
+### 多指针问题
+- 荷兰国旗问题 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.java))
 
 # 为什么选择这个代码库？
 
