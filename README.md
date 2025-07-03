@@ -7,6 +7,7 @@ I am sharing classic algorithms in Python and Java here.
 - Tower of Hanoi in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
 - Fibonacci numbers in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
 - Pascal's triangle in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.java))
+- Merge sort in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/mergesort.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/mergesort.java))
 
 ### Loop Algorithms
 - Permutations and Combinations in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
@@ -36,6 +37,7 @@ I am sharing classic algorithms in Python and Java here.
 - 汉诺塔([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Hanoi.java))
 - 斐波那契数列([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Fibonacci.java))
 - 杨辉三角 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/Pascal_dp.java))
+- 归并排序 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/mergesort.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/mergesort.java))
 
 ### 循环算法
 - 排列组合([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/AnC.java))
