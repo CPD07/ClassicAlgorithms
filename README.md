@@ -23,6 +23,9 @@ I am sharing classic algorithms in Python and Java here.
 
 ### Multiple Pointers
 - Dutch Flag Sort in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.py)) and ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.java))
+
+### Matching Algorithms
+- Knuth–Morris–Pratt algorithm, brute force and Boyer–Moore string-search algorithm in ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/String%20match.py))
   
 # Why This Repo?
 
@@ -55,6 +58,9 @@ I am sharing classic algorithms in Python and Java here.
 
 ### 多指针问题
 - 荷兰国旗问题 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.py)) 和 ([Java](https://github.com/CPD07/ClassicAlgorithms/blob/main/three.java))
+
+### 匹配算法
+- Knuth-Morris-Pratt 算法，暴力破解算法和 Boyer-Moore 字符串搜索算法 ([Python](https://github.com/CPD07/ClassicAlgorithms/blob/main/String%20match.py))
 
 # 为什么选择这个代码库？
 
